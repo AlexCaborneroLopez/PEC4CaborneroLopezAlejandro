@@ -1,0 +1,1 @@
+Aquí detallaremos los pasos necesarios para ejecutar el proyecto
